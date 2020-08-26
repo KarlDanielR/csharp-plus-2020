@@ -7,6 +7,10 @@ namespace Session02Exercise
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            string stringValue = "MyStringValue";
+
+            Console.WriteLine("The value of stringvalueis: " + stringValue);
         }
     }
 }
